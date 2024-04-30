@@ -14,6 +14,7 @@ def mainStart():
         print("Starting")
         os.system('cls')
         os.system('shutdown /s')
+        time.sleep(1)
     elif start == ("N"):
         print("Canceled")
         time.sleep(1)
@@ -22,6 +23,7 @@ def mainStart():
         print("Starting")
         os.system('cls')
         os.system('shutdown /s')
+        time.sleep(1)
     elif start == ("n"):
         print("Canceled")
         time.sleep(1)

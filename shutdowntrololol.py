@@ -1,7 +1,7 @@
 import os
 import time
 from tkinter import *
-for x in range(11):
+for x in range(2):
     root = Tk()
     root.title("SAY GOODBYE")
     root.minsize(200, 200)  # width, height
